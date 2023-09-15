@@ -1,0 +1,16 @@
+.list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.button {
+  padding: 10px 20px;
+  background-color: #663e24;
+  color: antiquewhite;
+  border-radius: 50px;
+  font-size: 20px;
+}
+.button:hover {
+  background-color: #54331d;
+}
